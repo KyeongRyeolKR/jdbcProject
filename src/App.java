@@ -1,5 +1,3 @@
-package jdbcCRUDexample;
-
 import com.newlecture.app.console.NoticeConsole;
 
 import java.sql.SQLException;
